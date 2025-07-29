@@ -11,14 +11,7 @@ export type SoundsA = {
 	Destroy: (SoundsA) -> ()
 }
 
-local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local RF = game:GetService("ReplicatedFirst")
 local TweenService = game:GetService("TweenService")
-local RunService = game:GetService("RunService")
-local Players = game:GetService("Players")
-
-local plr = Players.LocalPlayer
-local plrGui = plr.PlayerGui
 
 local SoundsA = {}
 SoundsA.ClassName = "SoundMixer"

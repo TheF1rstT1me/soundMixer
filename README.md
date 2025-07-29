@@ -2,7 +2,7 @@
 
 ## What is it used for?
 
-*Данный миксер используется для того, чтобы создавать звуковые каналы, запускать звуки внутри них, управлять каналами.*
+*This mixer is used to create sound channels, run sounds inside them, and manage channels.*
 
-> Например:
-> Вам нужно в одно время воспроизводить звук атмосферы/музыки в бэкграунде и в это же время иметь канал для других звуков, но вы хотите иметь возможность управлять каждым каналом для звуков, отслеживать их.
+> For example:
+> You need to play the sound of the atmosphere/music in the background at one time and at the same time have a channel for other sounds, but you want to be able to control and track each channel for sounds.
